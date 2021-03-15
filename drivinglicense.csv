@@ -1,0 +1,15 @@
+gender,group,license,Mgr,Emp
+men,A,1,1,1
+men,A,0,0,1
+men,A,1,1,1
+women,A,1,1,4
+women,A,0,1,5
+women,A,0,0,5
+men,B,0,0,5
+men,B,0,0,6
+men,B,0,1,6
+men,B,1,1,7
+women,B,1,1,7
+women,B,1,0,4
+women,B,1,0,4
+women,B,1,1,5

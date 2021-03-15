@@ -1,0 +1,2 @@
+model_checkpoint_path: "dqn_angle_shooting_weights.h5f"
+all_model_checkpoint_paths: "dqn_angle_shooting_weights.h5f"
